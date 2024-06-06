@@ -8,11 +8,10 @@ Este é um projeto de um jogo de Space Invaders desenvolvido com a biblioteca Py
 
 1. O jogador deve ser capaz de mover-se para a esquerda e para a direita.
 2. O jogador deve ser capaz de disparar projéteis.
-3. Inimigos devem perseguir o jogador.
-4. Inimigos devem aumentar a velocidade gradualmente.
-5. A pontuação deve ser atualizada conforme os inimigos são destruídos.
-6. O jogador avança para a próxima fase após destruir todos os inimigos.
-7. O jogo deve exibir uma mensagem de derrota se o jogador não eliminar todos os inimigos em 30 segundos.
+3. Inimigos devem aumentar a velocidade gradualmente.
+4. A pontuação deve ser atualizada conforme os inimigos são destruídos.
+5. O jogador avança para a próxima fase após destruir todos os inimigos.
+6. O jogo deve exibir uma mensagem de derrota se o jogador não eliminar todos os inimigos em 30 segundos.
 
 ### Requisitos Não-Funcionais
 
