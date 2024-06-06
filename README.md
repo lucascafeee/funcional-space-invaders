@@ -18,6 +18,7 @@ Este é um projeto de um jogo de Space Invaders desenvolvido com a biblioteca Py
 1. O jogo deve ser executado sem travamentos ou bugs.
 2. O código deve ser bem documentado e seguir boas práticas de programação.
 3. O jogo deve ser disponibilizado em um repositório GitHub.
+4. O código deve ser feito em programação funcional
 
 ## Instalação
 
