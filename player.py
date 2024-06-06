@@ -4,7 +4,7 @@ class Player(pygame.sprite.Sprite):
     def __init__(self):
         super().__init__()
         self.image = pygame.Surface((50, 30))
-        self.image.fill((255, 255, 255))
+        self.image.fill((0, 255, 0))  # Cor verde para o player
         self.rect = self.image.get_rect()
         self.rect.centerx = 400
         self.rect.bottom = 580
