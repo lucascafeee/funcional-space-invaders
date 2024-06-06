@@ -55,7 +55,6 @@ Para rodar o jogo, você precisará ter o Python e a biblioteca Pygame instalado
 - `player.py`: Define a classe Player.
 - `enemy.py`: Define a classe Enemy.
 - `bullet.py`: Define a classe Bullet.
-- `images/`: Diretório contendo as imagens para o jogador e os inimigos (`player.png` e `enemy.png`).
 
 ## Conceitos Funcionais Utilizados
 
